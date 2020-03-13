@@ -1,6 +1,6 @@
 ### zookeeper_events_parser
 
-'''
+```
 Quick script to parse and print out each hyperflex zookeeper event. 
 The script just picks up the relevant messages & prints the time in a human readable format along with the description & ID.
 
@@ -17,4 +17,4 @@ Id          :- DiskAddedEvent
 ******************************************************************************************
 
 <snip>
-'''
+```
